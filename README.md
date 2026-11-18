@@ -185,7 +185,7 @@ traffic-flow-prediction/
 
 ## 👨‍💻 Author
 
-**Aryan Farswan**  
+**Sidhant Jha**  
 B.Tech – Artificial Intelligence & Machine Learning  
-contact- [LinkedIn](https://www.linkedin.com/in/aryan-farswan-29a09431a)
+contact- https://www.linkedin.com/in/sidhant-jha/
 
